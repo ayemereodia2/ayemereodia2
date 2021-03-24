@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ayemereodia2/ayemereodia2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on an SDK Projects for a popular UAE Bank.
 - 🌱 I’m currently learning how to write swift UI in code, Combine framework, and MVVM architecture.
 - 👯 I’m looking to collaborate on any project that uses RxSwift or Combine framework extensively.
@@ -13,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: odiadavid2@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: If the resturant cuisine is popular, i will secretly go there to try it, regardless of the price. I love good food.
--->
+>

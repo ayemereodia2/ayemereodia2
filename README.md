@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I code eery day.
+- 🔭 I code every day.
 - 🌱 I’m currently learning how to write swift UI in code, Combine framework, and MVVM architecture.
 - 👯 I’m looking to collaborate on any project that uses RxSwift or Combine framework extensively.
 - 🤔 I’m looking for help with 

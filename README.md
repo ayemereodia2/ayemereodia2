@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Currently learning and teaching my Wife how to code in Python. She's learning how to write automated tests scripts in Selenium.
+- 🌱 Mobile is done! Currently learning sharpining my skills in C# and .NET development, planning on going full stack.
 - 👯 
 - 🤔  
 - 💬 

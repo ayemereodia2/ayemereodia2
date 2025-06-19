@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Mobile is done! Currently learning sharpining my skills in C# and .NET development, planning on going full stack.
+- 🌱 Mobile is done! Currently sharpining my skills in C# and .NET development, planning on going full stack.
 - 👯 
 - 🤔  
 - 💬 
